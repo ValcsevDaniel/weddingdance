@@ -127,9 +127,26 @@ p{
   #pepi{
     width: 100%;
     height: 80%;
+    margin-top: 10%;
+    
     object-fit: cover;
   }
-
+  #pepiNagy{
+    width: 100%;
+    margin-top: 25%;
+    
+    object-fit: cover;
+    
+  }
+  #images{
+    margin-right: 5%;
+  }
+  li{
+    margin-bottom: 2%;
+  }
+  .closing{
+    margin-bottom: 5%;
+  }
   /* Learn more button */
   .btn41-43 {
     margin-bottom: 5%;
